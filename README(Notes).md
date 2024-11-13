@@ -78,6 +78,3 @@ Sprint Planning Meetings: 60 minutes each
 Daily Standups: 150 minutes per sprint
 Product Review Meetings: 60 minutes each
 Sprint Retrospective Meetings: 45 minutes each
-
-
-
